@@ -42,7 +42,7 @@
   },
   "homepage": "https://github.com/riot/ssr#readme",
   "dependencies": {
-    "@riotjs/util": "^2.2.1",
+    "@riotjs/util": "^2.4.0",
     "curri": "^2.0.3",
     "linkedom": "^0.15.1"
   },

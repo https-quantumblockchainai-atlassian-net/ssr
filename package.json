@@ -44,7 +44,7 @@
   "dependencies": {
     "@riotjs/util": "^2.2.1",
     "curri": "^2.0.3",
-    "linkedom": "^0.15.1"
+    "linkedom": "^0.18.7"
   },
   "peerDependencies": {
     "riot": "^6.0.0 || ^7.0.0 || ^9.0.0"
